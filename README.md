@@ -36,8 +36,8 @@ Ratios and weighted ratios for the stocks, universe sectors and industries are:
 
 
 # Dashboard
-“Model Results” (Figure 1) shows the actual market cap vs the predicted market cap.
-“Model Loss” (Figure 2) shows if the model is overfit.
+- “Model Results” (Figure 1) shows the actual market cap vs the predicted market cap.
+- “Model Loss” (Figure 2) shows if the model is overfit.
 
 ![image](https://user-images.githubusercontent.com/71287557/116837191-5df9de80-ab97-11eb-9e61-4cbb530efa16.png)
 Figure 1
